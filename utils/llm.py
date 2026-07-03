@@ -10,7 +10,7 @@ Supports
 
 Automatically detects whether Ollama is available.
 
-Author : Himanshu Rajak
+Author : Rishu Singh
 Project : AI Medico Bot
 """
 
